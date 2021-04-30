@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "Doct1",
+      "day": "05/05/2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Doct3",
+      "day": "25/09/2021",
+      "reminder": true
+    }
+  ]
+}
